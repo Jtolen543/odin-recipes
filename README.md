@@ -1,1 +1,1 @@
-This project will enclose the basic coding utilities required to construct a basic recipe list using HTML format.
+This project will enclose the coding utilities required to construct a basic recipe list using HTML format.
